@@ -68,5 +68,15 @@
       "nrEntries": 10,
       "entryByteSize": 100
     }
+  ],
+  "beeRead": [
+    {
+      "nrEntries": 10,
+      "entryByteSize": 10
+    },
+    {
+      "nrEntries": 10,
+      "entryByteSize": 100
+    }
   ]
 }
